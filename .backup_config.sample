@@ -1,0 +1,19 @@
+{
+    "locations": {
+        "site1": {
+            "database": {
+                "host": "localhost",
+                "user": "root",
+                "pass": "abcd1234",
+                "db": [
+                    "site1_database1",
+                    "site1_database2"
+                ]
+            },
+            "files": "/var/www/site1"
+        },
+        "site2": {
+            "files": "/var/www/site2"
+        }
+    }
+}

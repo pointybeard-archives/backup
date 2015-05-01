@@ -1,0 +1,29 @@
+{
+    "name": "pointybeard/backup",
+    "version": "1.0alpha",
+    "description": "Simple database & file backup package",
+    "homepage": "https://github.com/pointybeard/backup",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alistair Kearney",
+            "email": "hi@alistairkearney.com",
+            "homepage": "http://alistairkearney.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.6",
+        "symfony/console": "~2.6"
+    },
+    "support": {
+      "issues": "https://github.com/pointybeard/backup/issues",
+      "wiki": "https://github.com/pointybeard/backup/wiki"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Backup\\": "src/"
+        }
+    }
+}
