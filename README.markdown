@@ -2,7 +2,7 @@
 
 - Version: 0.1alpha
 - Date: 2nd May 2015
-- [Github repository](https://github.com/pointybeard/backup/tree/1.0alpha)
+- [Github repository](https://github.com/pointybeard/backup/releases/tag/1.0alpha)
 
 ## Overview
 
